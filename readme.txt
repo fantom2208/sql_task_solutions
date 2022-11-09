@@ -17,7 +17,7 @@
 
 6) Решение задачи B - скрипт task_c.sql
 
-
+7) Решение задачи Г - скрипт task_d.sql (использование Window functions)
 
 
 
@@ -39,3 +39,6 @@ https://sqliteonline.com/#share=6b9ec9e5ee611b22bbf326650c9b2edda8a947670993e69d
 
 6) Решение задачи B
 https://sqliteonline.com/#share=e3797a8ee6cf7f0c9c3578fb27aeea503d52b44cca96f78faa7cfd30ac2f96be
+
+7) Решение задачи Г
+https://sqliteonline.com/#share=3a44fe153c12bac22631c834e4ed77c6abe6e5032873f4dd63c3eaff6af36d3a

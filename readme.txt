@@ -13,6 +13,7 @@
 
 4) Решение задачи А - скрипт task_a.sql
 
+5) Решение задачи Б - скрипт task_b.sql (использование CTE)
 
 
 
@@ -33,3 +34,6 @@ https://sqliteonline.com/#share=1bbe34b7acdac2cd44eb8dd17f8ee6ed4d4a2e012aadfe0f
 
 4) Решение задачи А
 https://sqliteonline.com/#share=a2065f60fd3c298c84dfc4630e9a7a9f6858ae7023eba2dd1b19ee80572a4388
+
+5) Решение задачи Б - скрипт task_b.sql (использование CTE)
+https://sqliteonline.com/#share=6b9ec9e5ee611b22bbf326650c9b2edda8a947670993e69d451ced61b0b38847
